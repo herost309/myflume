@@ -6,14 +6,13 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 @RestController
 @SpringBootApplication
-public class FirstApplication {
+
+public class Application {
 
     @RequestMapping("/")
     String index() {
         return "Hello Spring Boot";
     }
-public class Application {
-
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
     }
