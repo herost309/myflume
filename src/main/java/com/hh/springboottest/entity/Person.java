@@ -1,4 +1,4 @@
-package com.hh.spring_boot.entity;
+package com.hh.springboottest.entity;
 
 public class Person {
     private int age;

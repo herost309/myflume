@@ -1,4 +1,4 @@
-package com.hh.spring_boot;
+package com.hh.springboottest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
